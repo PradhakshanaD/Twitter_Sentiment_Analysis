@@ -2,7 +2,7 @@
 
 ## Description:
 
-This project implements sentiment analysis using Logistic Regression with TF-IDF vectorization in Python. Sentiment analysis, a subset of Natural Language Processing (NLP), aims to determine the sentiment or opinion expressed in text data. The dataset used for this project comprises 1.6 million tweets.
+This project implements sentiment analysis using Logistic Regression with TF-IDF vectorization in Python. Sentiment analysis, a subset of Natural Language Processing (NLP), aims to determine the sentiment or opinion expressed in text data. The dataset used for this project comprises 1.6 million tweets. Here is the link to the dataset --> ![Dataset](https://www.kaggle.com/datasets/kazanova/sentiment140)
 
 ## Key Steps:
 

@@ -19,4 +19,5 @@ The trained model was evaluated using a test set to assess its performance in pr
 The accuracy achieved on the test set was 77.8%, indicating the model's effectiveness in classifying sentiments expressed in tweets.
 
 
+
 This project draws inspiration and guidance from the resources provided by GeekforGeeks, a valuable platform for learning and exploring various concepts.
